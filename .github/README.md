@@ -1,7 +1,7 @@
 # peek
 cat command alternative for sensitive info.
 
-## install
+## Install
 
 ```bash
 $ git clone https://github.com/alpineyahoo/peek.git
