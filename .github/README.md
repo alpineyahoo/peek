@@ -1,2 +1,6 @@
 # peek
-cat command alternative for sensitive info
+cat command alternative for sensitive info.
+
+```bash
+$ 
+```
