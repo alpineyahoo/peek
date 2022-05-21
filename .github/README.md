@@ -1,5 +1,6 @@
 # peek
-cat command alternative for sensitive info.
+cat command alternative for sensitive info.  
+Use me with [anon](https://github.com/alpineyahoo/anon)
 
 ## Install
 
