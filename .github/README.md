@@ -5,6 +5,7 @@ Use me with [anon](https://github.com/alpineyahoo/anon)
 ## Install
 
 ```bash
+$ cd ~
 $ git clone https://github.com/alpineyahoo/peek.git
 $ cd peek
 $ make
